@@ -2,7 +2,7 @@
 
 ![Project Image](https://braydonwang.github.io/NLP.png)
 
-> This is a list of all of my assignments that I created during the GDG Cloud Edmonton Machine Learning Bootcamp 2021
+> This is a list of all of my assignments that I created during the phase 2 of GDG Cloud Edmonton Machine Learning Bootcamp 2021
 
 ---
 
