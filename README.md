@@ -2,34 +2,24 @@
 
 ![Project Image](https://braydonwang.github.io/NLP.png)
 
-> This is a list of all of my assignments that I created during the phase 2 of GDG Cloud Edmonton Machine Learning Bootcamp 2021
+> This is a list of all of my assignments that I created during phase 2 of the GDG Cloud Edmonton Machine Learning Bootcamp 2021
 
 ---
 
 ### Table of Contents
 To easily navigate through all of the different sections
 
-- [Week1](https://github.com/braydonwang/MachineLearningBootcamp2021/tree/main/Week1)
-    - [Imports](https://github.com/braydonwang/MachineLearningBootcamp2021/tree/main/Week1/Imports)
-    - [Presentations](https://github.com/braydonwang/MachineLearningBootcamp2021/tree/main/Week1/Presentations)
-- [Week2](https://github.com/braydonwang/MachineLearningBootcamp2021/tree/main/Week2)
-    - [Imports](https://github.com/braydonwang/MachineLearningBootcamp2021/tree/main/Week2/Imports)
-    - [Presentations](https://github.com/braydonwang/MachineLearningBootcamp2021/tree/main/Week2/Presentations)
-- [Week3](https://github.com/braydonwang/MachineLearningBootcamp2021/tree/main/Week3)
-    - [Imports](https://github.com/braydonwang/MachineLearningBootcamp2021/tree/main/Week3/Imports)
-    - [Presentations](https://github.com/braydonwang/MachineLearningBootcamp2021/tree/main/Week3/Presentations)
-- [Week4](https://github.com/braydonwang/MachineLearningBootcamp2021/tree/main/Week4)
-    - [Imports](https://github.com/braydonwang/MachineLearningBootcamp2021/tree/main/Week4/Imports)
-    - [Presentations](https://github.com/braydonwang/MachineLearningBootcamp2021/tree/main/Week4/Presentations)
-- [Week5](https://github.com/braydonwang/MachineLearningBootcamp2021/tree/main/Week5)
-    - [Imports](https://github.com/braydonwang/MachineLearningBootcamp2021/tree/main/Week5/Imports)
-    - [Presentations](https://github.com/braydonwang/MachineLearningBootcamp2021/tree/main/Week5/Presentations)
+- [Week1](https://github.com/braydonwang/Natural-Language-Processing-Assignments/tree/main/Week1)
+    - [Imports](https://github.com/braydonwang/Natural-Language-Processing-Assignments/tree/main/Week1/Imports)
+    - [Presentations](https://github.com/braydonwang/Natural-Language-Processing-Assignments/tree/main/Week1/Presentations)
+- [Week2](https://github.com/braydonwang/Natural-Language-Processing-Assignments/tree/main/Week2)
+    - [Presentations](https://github.com/braydonwang/Natural-Language-Processing-Assignments/tree/main/Week2/Presentations)
 
 ---
 
 ## Description
 
-A list of all of my assignments and analyses that I developed during phase 1 of the GDG Cloud Edmonton Machine Learning Bootcamp 2021. All were made using python on Google Colab and relied heavily on external libraries and data from the Titanic Kaggle Contest.
+A list of all of my assignments that I developed during phase 2 of the GDG Cloud Edmonton Machine Learning Bootcamp 2021. All were made using python on Google Colab and relied heavily on Natural Language Toolkit (NLTK) and other libraries.
 
 #### Language
 
@@ -37,17 +27,32 @@ A list of all of my assignments and analyses that I developed during phase 1 of 
 
 #### Libraries
 
-- Pandas
+- nltk
+- Collections
+- Utils
 - Numpy
-- Scikit-learn
 - Matplotlib
-- Seaborn
-- Keras
 - and more...
 
 ---
 
 ## How To Use
+
+#### Version
+
+Make sure the nltk library is on version 3.5 to ensure all the values and output are correct!
+
+Run this line of code at the beginning of the notebook to install:
+
+```
+!pip install nltk==3.5
+```
+
+Run this to make sure that it is the correct version:
+
+```
+nltk.__version__
+```
 
 #### Imports
 
