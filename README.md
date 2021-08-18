@@ -44,13 +44,13 @@ Make sure the nltk library is on version 3.5 to ensure all the values and output
 
 Run this line of code at the beginning of the notebook to install:
 
-```
+```python
 !pip install nltk==3.5
 ```
 
 Run this to make sure that it is the correct version:
 
-```
+```python
 nltk.__version__
 ```
 
