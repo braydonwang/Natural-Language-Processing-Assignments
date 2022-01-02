@@ -14,6 +14,11 @@ To easily navigate through all of the different sections
     - [Presentations](https://github.com/braydonwang/Natural-Language-Processing-Assignments/tree/main/Week1/Presentations)
 - [Week2](https://github.com/braydonwang/Natural-Language-Processing-Assignments/tree/main/Week2)
     - [Presentations](https://github.com/braydonwang/Natural-Language-Processing-Assignments/tree/main/Week2/Presentations)
+- [Week3](https://github.com/braydonwang/Natural-Language-Processing-Assignments/tree/main/Week3)
+    - [Imports](https://github.com/braydonwang/Natural-Language-Processing-Assignments/tree/main/Week3/Imports)
+    - [Presentations](https://github.com/braydonwang/Natural-Language-Processing-Assignments/tree/main/Week3/Presentations)
+- [Week4](https://github.com/braydonwang/Natural-Language-Processing-Assignments/tree/main/Week4)
+    - [Presentations](https://github.com/braydonwang/Natural-Language-Processing-Assignments/tree/main/Week4/Presentations)
 
 ---
 
