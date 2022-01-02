@@ -26,6 +26,7 @@ To easily navigate through all of the different sections
 
 A list of all of my assignments that I developed during phase 2 of the GDG Cloud Edmonton Machine Learning Bootcamp 2021. All were made using python on Google Colab and relied heavily on Natural Language Toolkit (NLTK) and other libraries.
 
+- Week 3: Named Entity Recognition with BERT
 - Week 4: Fine-tuned BERT Question-Answering Machine
 
 #### Language
